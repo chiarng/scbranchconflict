@@ -2,30 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>global.watchconflicthere</api_name>
+        <api_name>global.developerBbranchscript</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>watchconflicthere</name>
-        <script><![CDATA[var watchconflicthere = Class.create();
-watchconflicthere.prototype = {
+        <name>developerBbranchscript</name>
+        <script><![CDATA[var developerBbranchscript = Class.create();
+developerBbranchscript.prototype = {
     initialize: function() {
     },
-	// master branch first commit
-	// developerAbranchscript was here
-    type: 'watchconflicthere'
+
+    type: 'developerBbranchscript'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
-        <sys_created_on>2020-11-09 13:24:08</sys_created_on>
-        <sys_id>bb6396761b5c2050fe0165f8bc4bcb6e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>watchconflicthere</sys_name>
+        <sys_created_on>2020-11-09 13:27:24</sys_created_on>
+        <sys_id>11349ab61b5c2050fe0165f8bc4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>developerBbranchscript</sys_name>
         <sys_package display_value="scbranchconflict" source="6323de361b5c2050fe0165f8bc4bcbbc">6323de361b5c2050fe0165f8bc4bcbbc</sys_package>
         <sys_policy/>
         <sys_scope display_value="scbranchconflict">6323de361b5c2050fe0165f8bc4bcbbc</sys_scope>
-        <sys_update_name>sys_script_include_bb6396761b5c2050fe0165f8bc4bcb6e</sys_update_name>
+        <sys_update_name>sys_script_include_11349ab61b5c2050fe0165f8bc4bcbb4</sys_update_name>
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
-        <sys_updated_on>2020-11-09 13:27:13</sys_updated_on>
+        <sys_updated_on>2020-11-09 13:27:24</sys_updated_on>
     </sys_script_include>
 </record_update>
