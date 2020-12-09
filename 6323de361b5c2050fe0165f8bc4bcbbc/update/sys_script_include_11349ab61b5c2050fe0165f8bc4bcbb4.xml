@@ -11,20 +11,20 @@
 developerBbranchscript.prototype = {
     initialize: function() {
     },
-
+	// another change
     type: 'developerBbranchscript'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
         <sys_created_on>2020-11-09 13:27:24</sys_created_on>
         <sys_id>11349ab61b5c2050fe0165f8bc4bcbb4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>developerBbranchscript</sys_name>
         <sys_package display_value="scbranchconflict" source="6323de361b5c2050fe0165f8bc4bcbbc">6323de361b5c2050fe0165f8bc4bcbbc</sys_package>
         <sys_policy/>
         <sys_scope display_value="scbranchconflict">6323de361b5c2050fe0165f8bc4bcbbc</sys_scope>
         <sys_update_name>sys_script_include_11349ab61b5c2050fe0165f8bc4bcbb4</sys_update_name>
         <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
-        <sys_updated_on>2020-11-09 13:27:24</sys_updated_on>
+        <sys_updated_on>2020-11-20 18:18:35</sys_updated_on>
     </sys_script_include>
 </record_update>
