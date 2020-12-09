@@ -2,31 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>global.watchconflicthere</api_name>
+        <api_name>global.peterbranch100_script</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>watchconflicthere</name>
-        <script><![CDATA[var watchconflicthere = Class.create();
-watchconflicthere.prototype = {
+        <name>peterbranch100_script</name>
+        <script><![CDATA[var peterbranch100_script = Class.create();
+peterbranch100_script.prototype = {
     initialize: function() {
     },
-	// master branch first commit
-	// developerAbranchscript was here
-	// peterbranch100 changes
-    type: 'watchconflicthere'
+
+    type: 'peterbranch100_script'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
-        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
-        <sys_created_on>2020-11-09 13:24:08</sys_created_on>
-        <sys_id>bb6396761b5c2050fe0165f8bc4bcb6e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>watchconflicthere</sys_name>
+        <sys_created_by>Peter</sys_created_by>
+        <sys_created_on>2020-12-09 18:18:47</sys_created_on>
+        <sys_id>e376f1681b01e410fe0165f8bc4bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>peterbranch100_script</sys_name>
         <sys_package display_value="scbranchconflict" source="6323de361b5c2050fe0165f8bc4bcbbc">6323de361b5c2050fe0165f8bc4bcbbc</sys_package>
         <sys_policy/>
         <sys_scope display_value="scbranchconflict">6323de361b5c2050fe0165f8bc4bcbbc</sys_scope>
-        <sys_update_name>sys_script_include_bb6396761b5c2050fe0165f8bc4bcb6e</sys_update_name>
+        <sys_update_name>sys_script_include_e376f1681b01e410fe0165f8bc4bcb79</sys_update_name>
         <sys_updated_by>Peter</sys_updated_by>
-        <sys_updated_on>2020-12-09 18:19:09</sys_updated_on>
+        <sys_updated_on>2020-12-09 18:18:47</sys_updated_on>
     </sys_script_include>
 </record_update>
