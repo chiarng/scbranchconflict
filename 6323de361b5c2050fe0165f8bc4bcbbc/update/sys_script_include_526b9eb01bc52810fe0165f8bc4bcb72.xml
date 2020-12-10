@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.peterbranch101_script</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>peterbranch101_script</name>
+        <script><![CDATA[var peterbranch101_script = Class.create();
+peterbranch101_script.prototype = {
+    initialize: function() {
+    },
+
+    type: 'peterbranch101_script'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Peter</sys_created_by>
+        <sys_created_on>2020-12-10 15:38:17</sys_created_on>
+        <sys_id>526b9eb01bc52810fe0165f8bc4bcb72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>peterbranch101_script</sys_name>
+        <sys_package display_value="scbranchconflict" source="6323de361b5c2050fe0165f8bc4bcbbc">6323de361b5c2050fe0165f8bc4bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scbranchconflict">6323de361b5c2050fe0165f8bc4bcbbc</sys_scope>
+        <sys_update_name>sys_script_include_526b9eb01bc52810fe0165f8bc4bcb72</sys_update_name>
+        <sys_updated_by>Peter</sys_updated_by>
+        <sys_updated_on>2020-12-10 15:38:17</sys_updated_on>
+    </sys_script_include>
+</record_update>
