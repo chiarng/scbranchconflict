@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.rachelbranch_101</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>rachelbranch_101</name>
+        <script><![CDATA[var rachelbranch_101 = Class.create();
+rachelbranch_101.prototype = {
+    initialize: function() {
+    },
+
+    type: 'rachelbranch_101'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Rachel</sys_created_by>
+        <sys_created_on>2020-12-10 15:41:27</sys_created_on>
+        <sys_id>1e2c16341bc52810fe0165f8bc4bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rachelbranch_101</sys_name>
+        <sys_package display_value="scbranchconflict" source="6323de361b5c2050fe0165f8bc4bcbbc">6323de361b5c2050fe0165f8bc4bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scbranchconflict">6323de361b5c2050fe0165f8bc4bcbbc</sys_scope>
+        <sys_update_name>sys_script_include_1e2c16341bc52810fe0165f8bc4bcb3b</sys_update_name>
+        <sys_updated_by>Rachel</sys_updated_by>
+        <sys_updated_on>2020-12-10 15:41:27</sys_updated_on>
+    </sys_script_include>
+</record_update>
